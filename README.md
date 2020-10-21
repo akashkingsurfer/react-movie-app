@@ -14,3 +14,10 @@ this is a simple web app which uses react to display information about movies. I
 
 ## Framework used:
 * React
+
+## How to use this app:
+clone the repository on your local machine
+
+then open terminal on the project directory and type `npm install`
+
+then type `npm start` which will start the developement server in your localhost.
